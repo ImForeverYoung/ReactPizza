@@ -63,7 +63,7 @@ const Sort: React.FC<SortParams> = React.memo(({value}) => {
                     />
                   </svg>
                   <b>Сортировка по:</b>
-                  <span onClick={()=>setIsVisible(!isVisible)}>{value.name}</span>
+                  <span onClick={()=>setIsVisible(!isVisible)}>{value}</span>
                 </div>
                 {
                   isVisible && (<div className="sort__popup">
