@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img src="https://www.gastronom.ru/binfiles/images/20191113/bd570867.jpg" width="726">
+      <img src="https://i.ibb.co/YbPjbCV/pizza-logo.png" width="726">
 </p>
 
 
