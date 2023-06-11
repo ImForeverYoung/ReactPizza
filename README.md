@@ -1,10 +1,12 @@
 
 <p align="center">
-      <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" width="726">
+      <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" >
 </p>
 <h1 align="center">React Pizza</h1>
 
-
+<p align="center">
+      <img  src="https://img.shields.io/badge/React-18.2.0-%23087ea4" alt="React Version">
+</p>
 ### `npm start`
 
 Runs the app in the development mode.\
