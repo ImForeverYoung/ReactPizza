@@ -10,6 +10,7 @@
       <img  src="https://img.shields.io/badge/TypeScript-5.0.4-%233178c6" alt="Typescript Version">
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
+
 ### `npm start`
 
 Runs the app in the development mode.\
