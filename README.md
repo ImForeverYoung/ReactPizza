@@ -10,8 +10,7 @@
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
 
- ![](https://i.ibb.co/0ZtBR8P/image.gif)
-
+![GIF](https://github.com/ImForeverYoung/ReactPizza/assets/54442509/bb09e7fb-6086-4d25-aa67-b17eadcb1536)
 
 
 ## About
