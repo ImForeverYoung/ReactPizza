@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<p align="center">
+      <img src="https://www.gastronom.ru/binfiles/images/20191113/bd570867.jpg" width="726">
+</p>
 ## Available Scripts
 
 In the project directory, you can run:
