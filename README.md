@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img src="https://i.ibb.co/YbPjbCV/pizza-logo.png" width="726">
+      <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" width="726">
 </p>
 
 
