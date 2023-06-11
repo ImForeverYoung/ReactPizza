@@ -9,9 +9,9 @@
       <img  src="https://img.shields.io/badge/TypeScript-5.0.4-%233178c6" alt="Typescript Version">
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
-<p align="center">
-  ![](https://i.ibb.co/0ZtBR8P/image.gif)
-</p>
+
+ ![](https://i.ibb.co/0ZtBR8P/image.gif)
+
 
 
 ## About
