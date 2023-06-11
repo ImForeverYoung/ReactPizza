@@ -6,6 +6,9 @@
 
 <p align="center">
       <img  src="https://img.shields.io/badge/React-18.2.0-%23087ea4" alt="React Version">
+      <img  src="https://img.shields.io/badge/ReduxToolkit-1.9.3-%23764abc" alt="Redux Tookit Version">
+      <img  src="https://img.shields.io/badge/TypeScript-5.0.4-%233178c6" alt="Typescript Version">
+      <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
 ### `npm start`
 
