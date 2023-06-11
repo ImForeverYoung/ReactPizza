@@ -10,7 +10,7 @@
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/0ZtBR8P/image.gif" alt="Work Gif">
+  ![](https://i.ibb.co/0ZtBR8P/image.gif)
 </p>
 
 
