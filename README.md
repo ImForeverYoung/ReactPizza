@@ -2,6 +2,7 @@
 <p align="center">
       <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" width="726">
 </p>
+<p>React Pizza</p>
 
 
 ### `npm start`
