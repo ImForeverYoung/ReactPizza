@@ -11,6 +11,12 @@
       <img  src="https://img.shields.io/badge/SASS-1.60.0-%23cf649a" alt="SASS Version">
 </p>
 
+## About
+This project is an online store for ordering pizza. Written entirely by hand on the React framework in Typescript.
+
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
