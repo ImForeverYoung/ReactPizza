@@ -3,7 +3,6 @@
       <img width="40px" height="40px" src="https://i.ibb.co/YbPjbCV/pizza-logo.png" >
 </p>
 <h1 align="center">React Pizza</h1>
-
 <p align="center">
       <img  src="https://img.shields.io/badge/React-18.2.0-%23087ea4" alt="React Version">
       <img  src="https://img.shields.io/badge/ReduxToolkit-1.9.3-%23764abc" alt="Redux Tookit Version">
