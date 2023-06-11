@@ -1,0 +1,11 @@
+.pizzaInfo_content{
+    height: 620px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    img{
+        margin-right: -20px;
+    }
+}
